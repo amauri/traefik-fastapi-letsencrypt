@@ -4,9 +4,10 @@
 
 [api]
 insecure = true
+dashboard = true
 
-[log]
-level = "DEBUG"
+#[log]
+#level = "DEBUG"
 
 [accessLog]
 
